@@ -2,3 +2,20 @@ print("hello World);
 print("hello kodland);
 print("hello kediler);
 print("hello dünyalılar");
+print("hello World);
+print("hello kodland);
+print("hello kediler);
+print("hello dünyalılar");
+
+
+print("hello World);
+print("hello kodland);
+print("hello kediler);
+print("hello dünyalılar");
+
+
+
+print("hello World);
+print("hello kodland);
+print("hello kediler);
+print("hello dünyalılar");
